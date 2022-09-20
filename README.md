@@ -1,7 +1,7 @@
 
 ## `deploy`
 
-[![Deploy](http://www.herokucdn.com/Deploy/button.svg/deploy?template=https://github.com/Lupias82/project-A/)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lupias82/project-A/)
 
 ## CARA INSTALL
 
